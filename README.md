@@ -1,5 +1,6 @@
 # Liam's GoodReads Analysis 1
-The goal of this project was to determine general trends for aggregated user activity on GoodReads for books originally published in English.
+The goal of this project was to determine general trends for aggregated user activity on GoodReads for books originally published in English. As you might know
+from my youtube channel I am an avid reader, so I was interested in finding trends in how people appreciate books on GoodReads.
 
 This Python data analysis project uses the best data set available for GoodReads books:
 https://www.kaggle.com/jealousleopard/goodreadsbooks
