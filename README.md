@@ -1,4 +1,4 @@
-# LiamsGoodReadsAnalysis1
+# Liam's GoodReads Analysis 1
 The goal of this project was to determine general trends for aggregated user activity on GoodReads for books originally published in English.
 
 This Python data analysis project uses the best data set available for GoodReads books:
